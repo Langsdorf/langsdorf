@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="92" class="">
+    <defs>
+        <style/>
+    </defs>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h1 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.calendar{margin-left:13px;margin-top:4px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}#metrics-end{width:100%}</style>
+    <style/>
+    <foreignObject x="0" y="0" width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
+            <section>
+                <h1 class="field">
+                    <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH8AAAB/CAYAAADGvR0TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEy0lEQVR4nO2dYW7kIAyFfefcIj/3LHuBXsEXYtWqlVgKxBAS2/g9yVI7OzMN/t4zTCp1ifwoGSnoBWlDTjDD+9KGmWACQE8wAVKeYAKM9gQTxN3TE84EgJ5wKETaE7YBjPiEewPY2xNMEPtQl6IbQLuZHmsLaTfRc7mWdvN2KJfSbtou5U7aDdutXEm7WTuWC2k3aecyLe3m7F5mpd2YKGVS2k2JVKak3YyIZUbajYhYJqTdhMilKu3FRy9VaS8epSQ0nkz0APANQEiRDKC9YBTpwEfjyVwPAN8AhLQzfO1FogjwYQJ6P/1oOpntAcAbgJAAf9Pi4/yq/PsI6ddemCn43CnANwAK8NdJvfEWigMmX73pnuCzngEAH/DXSj1xVoptJ395+tUbbqH4GyjgG4BhGT7pXiuS3wP4FnzWMQLgA/4aaY+x6ZSWj91NPg8e9pB8Jfhl40fhc+P1UviK+/9SbQX/Cgg3ngf4m8NnQZIdJD+FSX5tj23tvz0gPAB3FLyCEfaAL01qD/7VZ/FV4Fk4MUbXCfhC+CNgngTPgp9tHb5q6nM4PfAeixzAVzfA6Jj2ZBIC/DH4khF69V5a6abO9SP5F7CvmpQ/56qZbwKni+utfX3TDD7Hfg326rH+BHxasO5F4PeD/3RiWaF6Jg4P/6mUWiwauAUdIvmRi+aAA35A8KkI6/7J33l60D34aVv4M+/3tinoxTWW8L9fv0wm4NeArpwk/HJiH4JP28KvGcEKeBbciJJOI8BvgJcA10o9d66v9bzV8Ffr0ZRL0/rx989X3U2VRur5wsiT8Mk9/HyxV4mynHz+NugI/Pz5E6nP+fiBP5Ooz0aNjkQNA9CE8YWvL3now38biPRnaoBnoQFyM7deW7yPmkRNfjOJEjNahc9Cc2fvoyrxQkamxExTR0a/V/j8+318wG8tvvb4HfgrG/yWAXjuPdQlanJjr2o25KmEaUPni/WOXKNZ8BKwvTOBNhgPRUbg519PjXTAP2emhqryCxDD700FJP+0n/rKBYhO8S24gH+6Gvml0srRr72fWi4yMPJrEqW/hA34p+vUi07/vW2gZRDUuRd8qUFQpxvwdCf1MMDpcp/PBfhHnANeKYz94xH4LgT4B+Dj0Hdg5OPEf2Dk4+Pegf0en/WP/Q56Sw97uNFzAn7kO3wUOfXRb/GSJ31fMAxwBAP/KcA/4yW+EJJ/3AIP+BH3fXIO/lNI/jENHvCjnfhpE/A14ePeIQK/JfxS+Kx/VMGHgF9TqBs91F5rWIUwAPXXGVpbw6frLS+8toNP8nNOeG0Fn8YPuKG1DXwa/O1lZPhlE9zCp7l7Gz89CKdaAlwagOaA59BDGeC/hvT+mtamaQ8HPNcvwJI/UWqpaDzloff3H1UBt9LvOO25AL+3r3uCz+3fyvWSHTr13aT00qUNnNtGgO5Ar6W/NIA2ZAb89Wmvnfpr418bMmfVMCh0B7yX9H9kBv25RmwBN8Hn8GsGKB/XNgBXDIr4T4IvIdfSZckAXIcf2gS3wJeQy/88qWYM7SLAvw+9B7+WfisGoP56ttUy4L3RX4Lu/ZtB+Ik202PQe+n/gVx7XNMEdLGOXQzwOPSr9EvrLlDpe9DYmtwqeYJ/xwwjz6fxdbnTP/jynx8WiR4DAAAAAElFTkSuQmCC" width="20" height="20" />
+                    <span>Thiago</span>
+                </h1>
+                <div class="row">
+                    <section>
+                        <div class="field ">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
+                            </svg>
+                            Joined GitHub 7 years ago
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
+                            </svg>
+                            Followed by 19 users
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field calendar">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
+                                <g>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                </g>
+                            </svg>
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
+                            </svg>
+                            Contributed to 55 repositories
+                        </div>
+                    </section>
+                </div>
+            </section>
+        </div>
+        <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
+    </foreignObject>
+</svg>
