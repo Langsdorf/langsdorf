@@ -13,13 +13,11 @@
 <a href="https://github.com/langsdorf">
   <img align="center" width="49%" src="./issue_pr_lang.svg" />
 </a>
-<a href="https://github.com/langsdorf">
-  <img align="center" width="49%" src="./metrics.plugin.skyline.svg" />
-</a>
 
 <br/>
 
 <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=langsdorf&theme=onedark&row=1"/>
     <a href="https://gitlab.com/langsdorf">
         <img src="https://img.shields.io/badge/Gitlab-000?style=for-the-badge&logo=gitlab&logoColor=white"/>
     </a>
